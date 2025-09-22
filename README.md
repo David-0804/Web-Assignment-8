@@ -1,5 +1,5 @@
 # Web-Assignment-8
-# ClinicBookingSystem - Raw README
+# ClinicBookingSystem
 
 ## Database Name
 ClinicBookingSystem
